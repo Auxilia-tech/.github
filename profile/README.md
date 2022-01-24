@@ -12,12 +12,12 @@
    <a href="https://www.linkedin.com/company/auxilia-tech/">
    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="2%"/>
    </a>
-</div>
 
 ## <div align="center">Mission</div>
 
-Our goal is not only to make the world safer, but also to make passing through security checks faster and easier for both security agents and people just passing through.
+Our goal is not only to make the world safer, but also to make passing through security checks faster and easier.
 
 ## <div align="center">Contact</div>
 
-You can contact us via [our website](https://www.auxilia-tech.com/index.php/contact/) or directly by mail at [contact@auxilia-tech.com]
+You can contact us via [our website](https://www.auxilia-tech.com/index.php/contact/) or directly by mail at contact@auxilia-tech.com
+</div>
