@@ -17,6 +17,14 @@
 
 Our goal is not only to make the world safer, but also to make passing through security checks faster and easier.
 
+## <div align="center">Products</div>
+
+ - We believe that the Open Architecture framework is the future of the security sector. For this reason we release and maintain [pyDICOS](https://github.com/Auxilia-tech/pyDICOS), an open-source library that implements DICOS in python. We provide support and consulting services over this technology.
+ - [AIRIS](https://www.auxilia-tech.com/airis) is our plug-and-play on-premise solution for automated threat detection.
+ - Data visualisation tools for 2D and 3D data.
+ - Server solutions for security data.
+And more... Get in touch with us to discuss your security project.
+
 ## <div align="center">Contact</div>
 
 You can contact us via [our website](https://www.auxilia-tech.com/contact) or directly by mail at contact@auxilia-tech.com
