@@ -25,7 +25,7 @@ Our goal is not only to make the world safer, but also to make passing through s
    
  - [AIRIS](https://www.auxilia-tech.com/airis) is our plug-and-play on-premise solution for automated threat detection.
 
- - [CTViewer](www.auxilia-tech.com/blogs/ctviewer-announcement) is an enterprise toolkit solution to visualize DICOS CT files.
+ - [CTViewer](https://www.auxilia-tech.com/blogs/ctviewer-announcement) is an enterprise toolkit solution to visualize DICOS CT files.
 
  - Data visualisation and simulation tools for 2D and 3D data.
 
